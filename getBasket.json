@@ -1,0 +1,36 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "id": 1,
+            "title": "Apple BYZ S852I",
+            "price": 2927
+        },
+        {
+            "id": 2,
+            "title": "Apple EarPods",
+            "price": 100
+        },
+        {
+            "id": 3,
+            "title": "Apple EarPods",
+            "price": 2327
+        },
+        {
+            "id": 4,
+            "title": "Apple BYZ S852I",
+            "price": 3527
+        },
+        {
+            "id": 5,
+            "title": "Apple EarPods",
+            "price": 232
+        },
+        {
+            "id": 6,
+            "title": "Apple EarPods",
+            "price": 2327
+        }
+    ]
+}
