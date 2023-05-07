@@ -1,36 +1,42 @@
 {
-    "amount": 46600,
-    "countGoods": 2,
+    "amount": 25000,
+    "countGoods": 6,
     "contents": [
         {
             "id": 1,
+            "foto": "img src='style/pictures/catalog/AppleEarPods(1).jpg'",
             "title": "Apple BYZ S852I",
-            "price": 2927
+            "price": 200
         },
         {
             "id": 2,
+            "foto": "img src='style/pictures/catalog/AppleEarPods(3).jpg'",
             "title": "Apple EarPods",
             "price": 100
         },
         {
             "id": 3,
+            "foto": "img src='style/pictures/catalog/AppleEarPods(2).jpg'",
             "title": "Apple EarPods",
-            "price": 2327
+            "price": 300
         },
         {
             "id": 4,
+            "foto": "img src='style/pictures/catalog/AppleEarPods(1).jpg'",
             "title": "Apple BYZ S852I",
-            "price": 3527
+            "price": 400
         },
         {
             "id": 5,
+            "foto": "img src='style/pictures/catalog/AppleEarPods(3).jpg'",
             "title": "Apple EarPods",
-            "price": 232
+            "price": 500
         },
         {
             "id": 6,
+            "foto": "img src='style/pictures/catalog/AppleEarPods(2).jpg'",
             "title": "Apple EarPods",
-            "price": 2327
+            "price": 1000
         }
     ]
 }

@@ -1,12 +1,38 @@
 [
     {
-        "id_product": 123,
-        "product_name": "Ноутбук",
-        "price": 45600
+        "id": 1,
+        "foto": "img src='style/pictures/catalog/AppleEarPods(1).jpg'",
+        "title": "Apple BYZ S852I",
+        "price": 200
     },
     {
-        "id_product": 456,
-        "product_name": "Мышка",
+        "id": 2,
+        "foto": "img src='style/pictures/catalog/AppleEarPods(3).jpg'",
+        "title": "Apple EarPods",
+        "price": 100
+    },
+    {
+        "id": 3,
+        "foto": "img src='style/pictures/catalog/AppleEarPods(2).jpg'",
+        "title": "Apple EarPods",
+        "price": 300
+    },
+    {
+        "id": 4,
+        "foto": "img src='style/pictures/catalog/AppleEarPods(1).jpg'",
+        "title": "Apple BYZ S852I",
+        "price": 400
+    },
+    {
+        "id": 5,
+        "foto": "img src='style/pictures/catalog/AppleEarPods(3).jpg'",
+        "title": "Apple EarPods",
+        "price": 500
+    },
+    {
+        "id": 6,
+        "foto": "img src='style/pictures/catalog/AppleEarPods(2).jpg'",
+        "title": "Apple EarPods",
         "price": 1000
     }
 ]
