@@ -4,42 +4,42 @@
     "contents": [
         {
             "id": 1,
-            "foto": "img src='style/pictures/catalog/AppleEarPods(1).jpg'",
+            "foto": "'style/pictures/catalog/AppleEarPods(1).jpg'",
             "title": "Apple BYZ S852I",
             "price": 200,
             "quantity": 1
         },
         {
             "id": 2,
-            "foto": "img src='style/pictures/catalog/AppleEarPods(3).jpg'",
+            "foto": "'style/pictures/catalog/AppleEarPods(3).jpg'",
             "title": "Apple EarPods",
             "price": 100,
             "quantity": 1
         },
         {
             "id": 3,
-            "foto": "img src='style/pictures/catalog/AppleEarPods(2).jpg'",
+            "foto": "'style/pictures/catalog/AppleEarPods(2).jpg'",
             "title": "Apple EarPods",
             "price": 300,
             "quantity": 1
         },
         {
             "id": 4,
-            "foto": "img src='style/pictures/catalog/AppleEarPods(1).jpg'",
+            "foto": "'style/pictures/catalog/AppleEarPods(1).jpg'",
             "title": "Apple BYZ S852I",
             "price": 400,
             "quantity": 1
         },
         {
             "id": 5,
-            "foto": "img src='style/pictures/catalog/AppleEarPods(3).jpg'",
+            "foto": "'style/pictures/catalog/AppleEarPods(3).jpg'",
             "title": "Apple EarPods",
             "price": 500,
             "quantity": 1
         },
         {
             "id": 6,
-            "foto": "img src='style/pictures/catalog/AppleEarPods(2).jpg'",
+            "foto": "'style/pictures/catalog/AppleEarPods(2).jpg'",
             "title": "Apple EarPods",
             "price": 1000,
             "quantity": 1
