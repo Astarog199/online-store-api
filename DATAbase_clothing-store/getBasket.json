@@ -4,21 +4,21 @@
     "contents": [
         {
             "id": 1,
-            "foto": "img/card1.png",
+            "foto": "./style/img/katalog/1.png",
             "title": "ELLERY X M'O CAPSULE",
             "price": 52,
             "quantity": 1
         },
         {
             "id": 2,
-            "foto": "img/card2.png",
+            "foto": "./style/img/katalog/2.png",
             "title": "ELLERY X M'O CAPSULE",
             "price": 52,
             "quantity": 2
         },
         {
             "id": 3,
-            "foto": "img/card3.png",
+            "foto": "./style/img/katalog/3.png",
             "title": "ELLERY X M'O CAPSULE",
             "price": 52,
             "quantity": 1
